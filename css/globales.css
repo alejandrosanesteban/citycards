@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  :root {
+    --navbar-bg: #0A0101;
+    --navbar-text: #fff;
+    --text : #13131a;
+    --bg: #f0f0f5;
+    --lato: 'Lato', sans-serif;
+    --open-sans: 'Open Sans', sans-serif;
+  }
+
+  .main {
+    margin: 0 3rem;
+    background-color: var(--bg);
+  }
+
+  @media (width < 500px) {
+    .main {
+      margin: 0 auto;
+    }
+  }

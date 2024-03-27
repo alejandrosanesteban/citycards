@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Londres",
+        "description": "Capital del Reino Unido, con una rica historia, cultura diversa y emblemáticos lugares como el Big Ben y el Palacio de Buckingham.",
+        "image": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "París",
+        "description": "La Ciudad de la Luz, famosa por su arte, moda y la Torre Eiffel, cautiva con su elegancia y encanto.",
+        "image": "https://images.pexels.com/photos/2082103/pexels-photo-2082103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "name": "Barcelona",
+        "description": "Ciudad mediterránea con arquitectura de Gaudí, playas doradas y vida nocturna vibrante en el corazón de Cataluña.",
+        "image": "https://images.pexels.com/photos/1386444/pexels-photo-1386444.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "name": "Madrid",
+        "description": "La apasionada capital de España, con una mezcla de arte, cultura, gastronomía y vida nocturna vibrante en cada esquina.",
+        "image": "https://img.freepik.com/fotos-premium/automovil-semaforos-gran-via-principal-calle-comercial-madrid-noche_73503-412.jpg?w=1380"
+    },
+    {
+        "name": "Amsterdam",
+        "description": "Ciudad de canales y bicicletas, con museos de renombre mundial como el Rijksmuseum y una atmósfera relajada y liberal.",
+        "image": "https://cdn.pixabay.com/photo/2020/08/14/15/22/canal-5488271_1280.jpg"
+    },
+    {
+        "name": "Roma",
+        "description": "La Ciudad Eterna, donde la antigüedad se mezcla con la vida moderna, hogar del Coliseo, el Vaticano y la deliciosa cocina italiana.",
+        "image": "https://media.istockphoto.com/id/684002336/es/foto/calle-de-tr%C3%A1fico-frente-al-coliseo-roma-italia.jpg?s=1024x1024&w=is&k=20&c=h311cSGj1gVBQyD78e4n21rK3bHuO0EQ_ydmxCLUYak=" 
+    }
+]

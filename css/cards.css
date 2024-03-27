@@ -1,0 +1,48 @@
+
+
+.container {
+    margin: 0rem 6rem;
+    background-color: var(--bg);
+    padding: 0 1rem 2rem 1rem;
+}  
+
+.container .card-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1.7px;
+  font-family: var(--lato);
+  font-size: 1.4rem;
+}
+
+.container .card-text {
+  font-family: var(--open-sans);
+  font-size: 0.725rem;
+}
+
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.card {
+  width: 350px;
+  max-width: 100%;
+  margin-top: 1.5rem;
+}
+
+
+.btn-dark {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 0 1.8rem;
+}
+
+@media (width < 500px) {
+    .card-text {
+        display: none;
+    }
+
+    .card-img-overlay {
+      background-color: rgba(0, 0, 0, 0.4);
+  }
+
+}
